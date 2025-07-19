@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello Guys 😎👋  
+
+It’s me, Yadnesh.
+
+Wannabe Coder | CSE Enthusiast ⭐  
+
+Proudly known as the best friend of a *very famous* (totally not underrated) developer – [@SashaCreate](https://github.com/SashaCreate) 😌  
+
 
 <!--
 **Yadnesh90/Yadnesh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
